@@ -3,6 +3,7 @@
   "description": "Color Conversion between Hex, RGB and CMYK",
   "version": "0.1.1",
   "homepage": "http://felipesabino.github.io/colorconverter",
+  "main": "color-converter.js",
   "engines": {
     "node": ">= 0.8.0"
   },

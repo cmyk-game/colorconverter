@@ -146,3 +146,5 @@ colorconverter = (function() {
     return new CC(h);
   };
 })(colorconverter);
+
+if (module) module.exports = colorconverter;
